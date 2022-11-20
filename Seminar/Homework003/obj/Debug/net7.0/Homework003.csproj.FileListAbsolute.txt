@@ -1,0 +1,15 @@
+D:\Git\Third\Seminar\Homework003\bin\Debug\net7.0\Homework003.exe
+D:\Git\Third\Seminar\Homework003\bin\Debug\net7.0\Homework003.deps.json
+D:\Git\Third\Seminar\Homework003\bin\Debug\net7.0\Homework003.runtimeconfig.json
+D:\Git\Third\Seminar\Homework003\bin\Debug\net7.0\Homework003.dll
+D:\Git\Third\Seminar\Homework003\bin\Debug\net7.0\Homework003.pdb
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.csproj.AssemblyReference.cache
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.AssemblyInfoInputs.cache
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.AssemblyInfo.cs
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.csproj.CoreCompileInputs.cache
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.dll
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\refint\Homework003.dll
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.pdb
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\Homework003.genruntimeconfig.cache
+D:\Git\Third\Seminar\Homework003\obj\Debug\net7.0\ref\Homework003.dll
